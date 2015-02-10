@@ -1,0 +1,4 @@
+screencapture -s a.png
+URL=`imgur a.png`
+open $URL
+rm a.png
